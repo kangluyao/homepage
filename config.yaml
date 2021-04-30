@@ -1,9 +1,9 @@
-baseurl: /
+baseurl: "https://kangluyao.netlify.app/"
 languageCode: "en-us"
 title: "Luyao Kang"
 theme: "hugo-lithium-theme"
 googleAnalytics: "UA-28785465-3"
-disqusShortname: "daijiang-en"
+disqusShortname: "luyao-en"
 ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage: true
 enableEmoji: true
@@ -63,11 +63,11 @@ menu:
 
 params:
   description: "Personal website of Luyao Kang."
-  disqusURL: /
+  disqusURL: "http://kangluyao.netlify.app/"
   dateFormat: "2006/01/02"
   customCSS: ["css/custom.css"]
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js"]
-  githubContentURL: /
+  githubContentURL: "https://github.com/kangluyao/homepage/content/"
 
   # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion: "9.11.0"
