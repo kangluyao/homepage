@@ -1,4 +1,4 @@
-baseurl: "https://kangluyao.netlify.app/"
+baseurl: /
 languageCode: "en-us"
 title: "Luyao Kang"
 theme: "hugo-lithium-theme"
@@ -63,11 +63,11 @@ menu:
 
 params:
   description: "Personal website of Luyao Kang."
-  disqusURL: "http://kangluyao.netlify.app/"
+  disqusURL: /
   dateFormat: "2006/01/02"
   customCSS: ["css/custom.css"]
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js"]
-  githubContentURL: "https://github.com/kangluyao/homepage/content/"
+  githubContentURL: /
 
   # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion: "9.11.0"
