@@ -8,7 +8,7 @@ disable_highlight: true
 <b> I am currently a PhD student and majoring in ecology in the Institute of Botany, Chinese Academy Science. </b>
 
 <div id="widerimg">
-    <img src="/images/yellow_trout_lily.jpg">
+    <img src="https://github.com/kangluyao/homepage/blob/main/static/images/Forsythia_suspensa.jpg">
 </div>
 
 <center><strong> Microbial Ecology | Biodiversity </strong></center>
