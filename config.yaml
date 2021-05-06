@@ -25,8 +25,8 @@ menu:
     - name: "Research"
       url: "/research/"
       weight: 3
-    - name: "Links"
-      url: "/links/"
+    - name: "Pockets"
+      url: "/Pockets/"
       weight: 4
     - name: "Blog"
       url: "/en/"
