@@ -11,7 +11,7 @@ disable_highlight: true
 <h1 style="text-align:right">Charles Darwin </h1>
 
 
-![](/images/Tibet_plateau.jpg)
+![](/images/tree.png)
 
 <h1 style="text-align:center">**Microbial Ecology** | **Biodiversity** </h1>
 <center><strong> **Microbial Ecology** | **Biodiversity** <strong></center>
