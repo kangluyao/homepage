@@ -13,7 +13,7 @@ slug: about-my-personal-site
 
 接下来是发布网站，即将制作好的个人主页上载到服务器上，获得相应的域名，这样别人就能通过访问域名查看你的个人主页了，我采用的是Netlify(https://www.netlify.com)。Netlify提供了一个免费的计划，实际上有很多有用的功能。如果之前没有发布网站的经验，只需要用GitHub账号或者其他账号登录，把blogdown为网站生成的`public/folder`文件拖拽到Netlify页面，几秒钟后网站就可以上线了，随机获得子域名，可以修改这个域名。再将这个域名写入到`_config.yml`文件中，这样别人就可以通过该域名访问网站了。
 
-使用Netlify发布网站存在一个非常不方便的问题，当我写了一篇日志需要上载的时候，我需要重新发布我的网站，这使得整个过程显得非常麻烦，对于网站的管理非常不便捷。我的解决办法是将自己的网站文件上载到我的GitHub上的`homepage`，然后在Netlify和`homepage`建立联系，使Netlify获得读取`homepage`的权限。然后每次只需要写好日志，使用github desktop推送到`homepage`，个人主页中就会同步日志了，so easy!
+使用Netlify发布网站存在一个非常不方便的问题，当我写了一篇日志需要上载的时候，我需要重新发布我的网站，这使得整个过程显得非常麻烦，对于网站的管理非常不便捷。我的解决办法是将自己的网站文件上载到我的GitHub上的`homepage`，然后在Netlify和`homepage`之间建立联系，使Netlify获得读取`homepage`的权限。然后每次只需要写好日志，使用github desktop推送到`homepage`，个人主页中就会同步日志了，so easy!
 
 到这里网页基本上就差不多了，just enjoy it!
 
