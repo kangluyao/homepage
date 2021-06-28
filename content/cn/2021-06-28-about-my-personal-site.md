@@ -5,7 +5,7 @@ slug: about-my-personal-site
 ---
 >谈我的个人网站的制作过程，主要是想将整个个人网页制作过程记录下来，当一个笔记吧。
 
-我的个人网页是用Hugo 制作的，使用的是 R 包 [blogdown](https://disq.us/url?url=https%3A%2F%2Fgithub.com%2Frstudio%2Fblogdown%3AmAY6yyl-LJyLUHOVCFLTv486H_Q&cuid=2743984)，关于blogdown的使用方法可以参考谢益辉大佬写的[blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)。好了，介绍一下我的主页制作过程吧。
+我的个人网页是用Hugo 制作的，使用的是 R 包 [blogdown](https://disq.us/url?url=https%3A%2F%2Fgithub.com%2Frstudio%2Fblogdown%3AmAY6yyl-LJyLUHOVCFLTv486H_Q&cuid=2743984)，关于blogdown的使用方法可以参考[谢益辉](https://yihui.org/)大佬写的[blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)。好了，介绍一下我的主页制作过程吧。
 
 首先，在Rstudio中安装blogdown包，安装好后使用blogdown建立一个project，设置好目录名称和路径，选择Hugo主题。然后运行`blogdown::serve_site()`就可以在Viewer窗口看到网页的雏形。当然，网页的设计布局需要自己通过修改`_layout`和`config.yaml`等文件来实现，详细见谢益辉大佬写的指导书吧。
 
