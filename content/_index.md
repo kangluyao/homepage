@@ -5,8 +5,5 @@ disable_mathjax: true
 disable_highlight: true
 ---
 
-<div id="widerimg">
-    <img src="/images/tree.jpg">
-</div>
 
 <center><strong> Microbial Ecology | Community Ecology  </strong></center>
