@@ -5,8 +5,8 @@ disable_mathjax: true
 disable_highlight: true
 ---
 
-![](/images/tree.jpg)
+<div id="widerimg">
+    <img src="/images/tree.jpg">
+</div>
 
-
-
-<h1 style="text-align:right">Charles Darwin </h1>
+<center><strong> Microbial Ecology | Community Ecology  </strong></center>
