@@ -7,7 +7,7 @@ disable_highlight: true
 
 
 
-<img src="images\tree.jpg" style="zoom:80%;" />
+![](/images/tree.jpg)
 
 <center><strong> Microbial Ecology | Community Ecology  </strong></center>
 
