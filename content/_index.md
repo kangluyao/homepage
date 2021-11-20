@@ -9,5 +9,5 @@ disable_highlight: true
 
 ![](/images/tree.jpg)
 
-<center><strong> Microbial Ecology | Community Ecology  </strong></center>
+<font size=4>"***To know how to wonder and question is the first step of the mind toward discovery."***</font>
 
