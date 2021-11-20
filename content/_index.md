@@ -9,5 +9,5 @@ disable_highlight: true
 
 ![](/images/tree.jpg)
 
-><font size=4>"***To know how to wonder and question is the first step of the mind toward discovery."***</font>
+<font size=4>"***To know how to wonder and question is the first step of the mind toward discovery.-------by Louis Pasteur"***</font>
 
