@@ -14,5 +14,5 @@ date: '2021-04-29'
 
 ### Database
 
-+ [Censusing Earth's bacterial diversity](http://www.loucalab.com/lib/php/index.php?section=Blog&page=../../SECTION_Blog/MODULE_Blog/CLASS_Science%20news/UNIT_2019.02.04_Louca2019GPC/page.php)
++ [Censusing Earth's bacterial diversity](http://www.loucalab.com/archive/GPC)
 
