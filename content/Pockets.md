@@ -16,4 +16,6 @@ date: '2021-04-29'
 
 + [Censusing Earth's bacterial diversity](http://www.loucalab.com/archive/GPC)
 + [SoilGrids  system](https://soilgrids.org/)
++ [WorldClim](http://www.worldclim.org)
++ [Globcover2009 map](http://due.esrin.esa.int/page_globcover.php)
 
