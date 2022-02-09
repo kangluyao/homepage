@@ -12,6 +12,8 @@ slug: do some thinking
 
 西班牙的生态学教授[Fernando T. Maestre](https://maestrelab.com/en/equipo/fernando-t-maestre-en/)根据自己多年的科研的经历在Nature上撰文阐述在实验室里走向健康和幸福的七个步骤([Seven steps towards health and happiness in the lab](https://www.nature.com/articles/d41586-018-07514-7))，并提出一个高产的实验室并不一定需要是一个充满着负面竞争环境的实验室的观点。同时其本人也提出实验室管理的十大准则([Ten simple rules towards healthier research labs](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006914))。我个人非常赞同他的理念，我希望自己以后也能按照这种理念来进行科研工作。这可能就是李政道先生所说的科研工作者应该要有自己的科研品味，类似于我们在长年累月的科研过程中形成的科研价值观吧。
 
+所以，如何保持对科研的热情与专注呢？未完待续。。。
+
 **如何静下心来？浮躁会让人丧失深刻的思考力和敏锐的洞察力**。未完待续。。。
 
 
