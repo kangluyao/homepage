@@ -11,6 +11,8 @@ date: '2021-04-29'
 
 
 ### Linux
++ [explainshell](https://explainshell.com/)
++ [Unix/Linux Command Cheat Sheet](https://files.fosswire.com/2007/08/fwunixref.pdf)
 
 ### Database
 
@@ -18,5 +20,4 @@ date: '2021-04-29'
 + [SoilGrids  system](https://soilgrids.org/)
 + [Globcover2009 map](http://due.esrin.esa.int/page_globcover.php)
 + [WorldClim](http://www.worldclim.org)
-
 
