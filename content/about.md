@@ -6,7 +6,7 @@ disable_highlight: true
 slug: "about"
 ---
 
-Hi, I'm Luyao! <img src="https://media.giphy.com/media/XbsO51SFsJgome55fB/source.gif" style="zoom:3%;" /> A PhD student <img src="https://media.giphy.com/media/H1qAEy85tdGzHDjvaC/source.gif" style="zoom:1%;" /> at the Institute of Botany, Chinese Academy of Science (website: http://english.ib.cas.cn/) under the supervision of [Prof. Yuanhe Yang](http://sourcedb.ib.cas.cn/cn/expert/201303/t20130312_3790456.html/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="zoom:5%;" />
+Hi, I'm Luyao, a PhD student  at the Institute of Botany, Chinese Academy of Science (website: http://english.ib.cas.cn/) under the supervision of [Prof. Yuanhe Yang](http://sourcedb.ib.cas.cn/cn/expert/201303/t20130312_3790456.html/)
 
 I am broadly interested in microbial ecology, community ecology, global change ecology, and the causes and consequences of biogeochemistry.  I am enthusiastic about open and reproducible science, scientific communication, and statistical skills.
 
