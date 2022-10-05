@@ -1,7 +1,7 @@
 ---
 title: Markdown emoji markup
 date: '2022-10-05'
-slug: markdown emoji markup 
+slug: Markdown emoji markup 
 ---
 Complete list of github markdown emoji markup. 
 
