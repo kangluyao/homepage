@@ -1,7 +1,7 @@
-baseURL: "https://kangluyao.github.io/"
+baseurl: "https://kangluyao.netlify.app/"
 languageCode: "en-us"
-title: Luyao Kang
-theme: hugo-lithium-theme
+title: "Luyao Kang"
+theme: "hugo-lithium-theme"
 googleAnalytics: "UA-28785465-3"
 #disqusShortname: "luyao-en"
 ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
@@ -67,7 +67,7 @@ params:
   dateFormat: "2006/01/02"
   customCSS: ["css/custom.css"]
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js"]
-  githubContentURL: "https://github.com/kangluyao/kangluyao.github.io/content/"
+  githubContentURL: "https://github.com/kangluyao/homepage/content/"
 
   # options for highlight.js (version, additional languages, and theme)
   highlightjsVersion: "9.11.0"
