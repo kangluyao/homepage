@@ -1,7 +1,7 @@
-baseurl: "https://kangluyao.github.io/"
+baseURL: "https://kangluyao.github.io/"
 languageCode: "en-us"
-title: "Luyao Kang"
-theme: "hugo-lithium-theme"
+title: Luyao Kang
+theme: hugo-lithium-theme
 googleAnalytics: "UA-28785465-3"
 #disqusShortname: "luyao-en"
 ignoreFiles: ["\\.Rmd$", "_files$", "_cache$"]
