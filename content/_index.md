@@ -9,8 +9,6 @@ disable_highlight: true
 
 <div align='center' ><b>Community Ecology | Microbial Ecology | Metagenome</b></div>
 
-<div align='center'>
 {{% markdown %}}
-**Community Ecology** | **Microbial Ecology** | **Metagenome**
+<div align='center' ><b>Community Ecology | Microbial Ecology | Metagenome</b></div>
 {{% /markdown %}}
-</div>
