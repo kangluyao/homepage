@@ -12,5 +12,8 @@ command = "hugo -F -b $DEPLOY_PRIME_URL"
 [context.production]
 [context.production.environment]
 HUGO_ENV = "production"
-[markup.goldmark.renderer]
+
+[markup]  
+[markup.goldmark]    
+[markup.goldmark.renderer]     
 unsafe = true
