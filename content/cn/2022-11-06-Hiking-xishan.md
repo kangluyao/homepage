@@ -8,5 +8,7 @@ slug: hiking in Xishan
 
 天气不是很好，有雾霾，登到半山腰，看不清远处的景色，不过近处的山景还是不错的。作为一个南方人，北方的秋色于我还是具有相当大的吸引力，尤其是香山这一片，一到秋天，金黄色和红色就成为了满山的主色调，层林尽染。四季之中，我喜欢秋天，秋色调给人以温暖平和的感觉，是一种历经春日的萌新，夏时的躁动之后的成熟稳重。
 
+<a href="https://www.flickr.com/photos/196987831@N04/52511428281/" ><img src="//live.staticflickr.com/65535/52511428281_fff32052df_z.jpg" width="680" height="430" alt="DSC_2157"></a>
+
 
 黄栌(Cotinus coggygria)
