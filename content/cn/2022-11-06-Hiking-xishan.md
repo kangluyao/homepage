@@ -10,3 +10,4 @@ slug: hiking in Xishan
 ![](/images/hiking_1.png)
 ![](/images/hiking_2.png)
 ![](/images/hiking_3.png)
+![黄栌(Cotinus coggygria)](/images/hiking_4.png)
