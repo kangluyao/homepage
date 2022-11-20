@@ -7,8 +7,7 @@ disable_highlight: true
 
 ![](/images/tree.jpg)
 
-<div>
-<div>
-<center><b>Community Ecology | Microbial Ecology</b></center>
-</div>
-</div>
+<center>
+<b>Community Ecology | Microbial Ecology</b>
+</center>
+
