@@ -6,6 +6,8 @@ slug: hiking in Xishan
 
 今天和实验室的人邀约一起去徒步，从西山国家森林公园大门进入，一直往香山方向走，最后在国家植物园北园的樱桃沟出来，总行程约20公里。
 
+![](/images/hiking_2.png)
+
 天气不是很好，有雾霾，登到半山腰，看不清远处的景色，不过近处的山景还是不错的。
 
 <a href="https://www.flickr.com/photos/196987831@N04/52511428281/" ><img src="//live.staticflickr.com/65535/52511428281_fff32052df_z.jpg" width="680" height="430" alt="DSC_2157"></a>
