@@ -9,5 +9,5 @@ disable_highlight: true
 
 ![](/images/tree.jpg)
 
- 			 **Connunity Ecology** | **Microbial Ecology** 
+<center><b>Connunity Ecology | Microbial Ecology</b> </center>
 
