@@ -7,6 +7,7 @@ disable_highlight: true
 
 
 
-![](https://github.com/kangluyao/homepage/raw/main/static/images/tree.jpg)
+![](/images/tree.jpg)
 
-<center> **Connunity Ecology** | **Microbial Ecology** <center> 
+ **Connunity Ecology** | **Microbial Ecology** 
+
