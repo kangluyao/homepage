@@ -10,7 +10,7 @@ slug: hiking in Xishan
 
 天气不是很好，有雾霾，登到半山腰，看不清远处的景色，不过近处的山景还是不错的。
 
-![](https://github.com/kangluyao/homepage/blob/main/static/images/hiking_1.png)
+![](https://github.com/kangluyao/homepage/raw/main/static/images/hiking_1.png)
 
 ![](/images/hiking_1.png)
 
