@@ -4,9 +4,9 @@ date: '2021-04-27'
 disable_mathjax: false
 disable_highlight: true
 ---
-> **Finding the question is often more important than finding the answer.**
+> **The right question is usually more important than the right answer.**
 > 
-> **— John W. Tukey**
+> **— Plato**
 
 ![](/images/tree.jpg)
 
