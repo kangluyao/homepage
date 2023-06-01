@@ -7,4 +7,4 @@ disable_highlight: true
 
 ![](/images/tree.jpg)
 
-**Community Ecology**	|	**Microbial Ecology**	|	**Metagenome**
+<center>**Community Ecology**	|	**Microbial Ecology**	|	**Metagenome**</center>
