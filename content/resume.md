@@ -5,14 +5,9 @@ disable_mathjax: true
 disable_highlight: true
 disable_comments: true
 ---
-
-# Luyao Kang (康路遥)
-:email: [lykang@ibcas.ac.cn](mailto:lykang@ibcas.ac.cn)
-:github: 
-
-
-
-
+Current Position
+---------
+I am currently a PhD candidate at the Institute of Botany, Chinese Academy of Science.
 
 Education
 ---------
