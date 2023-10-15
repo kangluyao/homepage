@@ -5,8 +5,6 @@ disable_mathjax: false
 disable_highlight: true
 ---
 
-<div id="widerimg">
-    <img src="/images/tree.jpg">
-</div>
+![](/images/tree.jpg)
 
-<center><strong> Community Ecology | Microbial Ecology | Metagenome </strong></center>
+ **Community Ecology**	|	**Microbial Ecology**	|	**Metagenome**
