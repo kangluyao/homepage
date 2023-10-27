@@ -15,6 +15,8 @@ date: '2021-04-29'
 ### Database
 
 + [Censusing Earth's bacterial diversity](http://www.loucalab.com/archive/GPC)
++ [GlobalFungi](https://globalfungi.com/)
++ [Earth Microbiome Project](https://earthmicrobiome.org/)
 + [SoilGrids  system](https://soilgrids.org/)
 + [Globcover2009 map](http://due.esrin.esa.int/page_globcover.php)
 + [WorldClim](http://www.worldclim.org)
