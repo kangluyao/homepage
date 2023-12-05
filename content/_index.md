@@ -5,6 +5,10 @@ disable_mathjax: false
 disable_highlight: true
 ---
 
-![](/images/tree.jpg)
+<div id="widerimg">
+    <img src="/images/tree.jpg">
+</div>
 
- **Community Ecology**	|	**Microbial Ecology**	|	**Metagenome**
+<center><strong> Microbial Ecology | Community Ecology | Metagenome | Biogeochemistry </strong></center>
+
+<center><strong> Quantitative Ecology | Statistics </strong></center>
