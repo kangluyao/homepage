@@ -21,7 +21,7 @@ Publications
 ------------
 <sup><b>†</b></sup> denotes the authors contributed equally
 
-1. <b>Luyao Kang</b>, Leiyi Chen, Ziliang Li, Jianjun Wang, Kai Xue, Ye Deng, Manuel Delgado-Baquerizo, Yutong Song, Dianye Zhang, Guibiao Yang, Wei Zhou, Xuning Liu, Futing Liu, and Yuanhe Yang. 2023. [Patterns and Drivers of Prokaryotic Communities in Thermokarst Lake Water across Northern Hemisphere](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13764). <u><i>Global Ecology and Biogeography</i></u>. doi: 10.1111/geb.13764.
+1. <b> Luyao Kang </b>, Leiyi Chen, Ziliang Li, Jianjun Wang, Kai Xue, Ye Deng, Manuel Delgado-Baquerizo, Yutong Song, Dianye Zhang, Guibiao Yang, Wei Zhou, Xuning Liu, Futing Liu, and Yuanhe Yang. 2023. [Patterns and Drivers of Prokaryotic Communities in Thermokarst Lake Water across Northern Hemisphere](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13764). <u><i>Global Ecology and Biogeography</i></u>. doi: 10.1111/geb.13764.
 
 2. Ziliang Li<sup><b>†</b></sup>, Weijie Xu<sup><b>†</b></sup>, <b>Luyao Kang</b>, Yakov Kuzyakov, Leiyi Chen, Mei He, Futing Liu, Dianye Zhang, Wei Zhou, Xuning Liu, and Yuanhe Yang. 2023. [Accelerated Organic Matter Decomposition in Thermokarst Lakes upon Carbon and Phosphorus Inputs](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.16938). <u><i>Global Change Biology</i></u>. doi: 10.1111/gcb.16938.
 
