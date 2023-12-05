@@ -10,5 +10,3 @@ disable_highlight: true
 </div>
 
 <center><strong> Microbial Ecology | Community Ecology | Metagenome | Biogeochemistry </strong></center>
-
-<center><strong> Quantitative Ecology | Statistics </strong></center>
