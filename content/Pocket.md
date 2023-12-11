@@ -20,6 +20,7 @@ date: '2021-04-29'
 + [SoilGrids  system](https://soilgrids.org/)
 + [Globcover2009 map](http://due.esrin.esa.int/page_globcover.php)
 + [WorldClim](http://www.worldclim.org)
++ [Global ocean metagenomes from Bio-GO-SHIP](https://www.nature.com/articles/s41597-021-00889-9)
 
 ### Markdown
 
