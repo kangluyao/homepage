@@ -21,6 +21,7 @@ date: '2021-04-29'
 + [Globcover2009 map](http://due.esrin.esa.int/page_globcover.php)
 + [WorldClim](http://www.worldclim.org)
 + [Global ocean metagenomes from Bio-GO-SHIP](https://www.nature.com/articles/s41597-021-00889-9)
++ [Global airborne fungal DNA](https://www.nature.com/articles/s41597-024-03410-0)
 
 ### Markdown
 
