@@ -62,5 +62,5 @@ Professional Service and Outreach
     
 Presentations and Posters
 ---------------------------------
-
+*	<b>Luyao Kang</b>, Yutong Song, Rachel Mackelprang, Linwei Wu, and Yuanhe Yang. 2024 December. Metagenomic insights into microbial structure and metabolism in alpine permafrost on the Tibetan Plateau. EGU General Assembly 2024, Vienna, Austria, Apr 2024, EGU24-3298. (onsite Poster)
 *	<b>Luyao Kang</b>, Ye Deng, and Yuanhe Yang. 2020 December. Stochastic Process Dominates Microbial Community Assembly in Alpine Grasslands on the Tibetan Plateau . American Geophysical Union, Fall Meeting 2020, abstract #B113-0007. (online Poster)
