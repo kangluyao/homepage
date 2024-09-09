@@ -20,7 +20,7 @@ Education
 Publications
 ------------
 <font size=4px><b>Papers</b></font><br>
-<font size=4px><sup><b>†</b></sup> denotes the authors contributed equally</font><br
+<font size=4px><sup><b>†</b></sup> denotes the authors contributed equally</font><br>
 
 <font size=4px><b>First author</b></font><br>
 
