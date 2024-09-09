@@ -20,7 +20,7 @@ Education
 Publications
 ------------
 <font size=4px><b>Papers</b></font><br>
-<font size=3px><sup><b>†</b></sup> denotes the authors contributed equally</font><br
+<font size=4px><sup><b>†</b></sup> denotes the authors contributed equally</font><br
 
 <font size=4px><b>First author</b></font><br>
 
@@ -32,7 +32,7 @@ Publications
    
 4. <b>Luyao Kang</b>. 2018. Community dynamics of mycorrhizal fungi along a low subtropical forest succession (in Chinese). Master thesis. Sun Yat-sen University, Gunagzhou, China.
 
-<font size=2.5px><b>Co-author</b></font><br>
+<font size=4px><b>Co-author</b></font><br>
 
 1. Qin Shuqi, Fang Kai, Song Yutong, <b>Kang Luyao</b>, Wang Siyu, and Yang Yuanhe. 2024. [Linkage between temperature sensitivity of SOM decomposition and microbial communities depends on soil fractions](https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.17456). <i>Global Change Biology</i>, 30, e17456. doi: 10.1111/gcb.17456.
 2. Wang Lu, Zhang Dianye, <b>Kang Luyao</b>, Li Ziliang, and Yang Yuanhe. 2024. [Divergent microbial phosphorous acquisition strategies between active layer and permafrost deposits on the Tibetan Plateau](https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2435.14612). <u><i>Functional Ecology</u></i>. doi: 10.1111/1365-2435.14612.
