@@ -64,7 +64,7 @@ Publications
 Selected Awards
 --------------------------
 
-*   2024, Top-cited author in Environmental Microbiology 
+*   2024, Top-cited author in *Environmental Microbiology* journal 
 *   2021, Merit Student, University of Chinese Academy of Sciences
 *   2018, Prize for The Outstanding Contribution, School of Life Science, Sun Yat-sen University
 *   2015, Outstanding Graduates, Nanchang University
