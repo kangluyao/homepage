@@ -63,7 +63,7 @@ menu:
 
 params:
   description: "Personal website of Luyao Kang."
-  #disqusURL: "http://lykang.netlify.app/"
+  disqusURL: "http://lykang.netlify.app/"
   dateFormat: "2006/01/02"
   customCSS: ["css/custom.css"]
   customJS: ["js/center-img.js", "js/right-quote.js", "js/no-highlight.js", "js/fix-footnote.js"]
