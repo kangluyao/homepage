@@ -6,7 +6,7 @@ disable_highlight: true
 ---
 
 <div id="widerimg">
-    <img src="/images/island.png">
+    <img src="/images/alpine.jpg">
 </div>
 
 <center><strong> Microbial Ecology | Community Ecology | Metagenome | Biogeochemistry </strong></center>
